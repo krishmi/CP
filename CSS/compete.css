@@ -1,0 +1,35 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+a
+{
+	display: inline-block;
+}
+.question
+{
+	background: linear-gradient(to bottom,#0062cc 0%, aqua 100%);
+	color: white;
+}
+
+.logo
+{
+    height: 50px;
+    background-color: #0062cc;
+    color: white;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bolder;
+}
+.logo *
+{
+    margin-left: 2%;
+}
+.modal
+{
+    max-height: 80%;
+    overflow-y: auto;
+}
+

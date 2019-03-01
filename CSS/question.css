@@ -1,0 +1,35 @@
+body
+{
+	background-color: aqua;
+}
+
+#editor1
+{
+    font-size: 40px;
+}
+.logo
+{
+    height: 50px;
+    background-color: #0062cc;
+    color: white;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bolder;
+}
+.logo *
+{
+    margin-left: 2%;
+}
+.card
+{
+	margin-top: 20px;
+}
+.card-header
+{
+	background: linear-gradient(to bottom,#0062cc 0%, aqua 100%);
+}
+
+.container
+{
+    margin: 10px;
+}
